@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMAZONSAT">
+    <display-name lang="pt">AMAZONSAT</display-name>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">Cultura</display-name>
+  </channel>
+  <channel id="TV Gazeta">
+    <display-name lang="pt">TV Gazeta</display-name>
+  </channel>
+  <channel id="Globo Rede">
+    <display-name lang="pt">Globo Rede</display-name>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+  </channel>
+</tv>
