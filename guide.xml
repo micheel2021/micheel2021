@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX LIFE1">
+    <display-name lang="pt">FOX LIFE1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AXN WHITE1">
+    <display-name lang="pt">AXN WHITE1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CANAL HOLLYWOOD">
+    <display-name lang="pt">CANAL HOLLYWOOD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MOV1">
+    <display-name lang="pt">MOV1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AXN BLACK1">
+    <display-name lang="pt">AXN BLACK1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 1 HD">
+    <display-name lang="pt">TVC 1 HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 2 HD">
+    <display-name lang="pt">TVC 2 HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 3">
+    <display-name lang="pt">TVC 3</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 4">
+    <display-name lang="pt">TVC 4</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVSERIES HD1">
+    <display-name lang="pt">TVSERIES HD1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="DISNEY JUNIOR1">
+    <display-name lang="pt">DISNEY JUNIOR1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">BABY TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="pt">JIM JAM</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="DISNEY CHANNEL2">
+    <display-name lang="pt">DISNEY CHANNEL2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CANAL PANDA1">
+    <display-name lang="pt">CANAL PANDA1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BIGGS">
+    <display-name lang="pt">BIGGS</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV11">
+    <display-name lang="pt">SPORT TV11</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+</tv>
